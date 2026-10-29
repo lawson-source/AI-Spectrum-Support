@@ -4,6 +4,10 @@ AI谱是一款面向 iPhone 和 iPad 的端侧 AI 模型评测应用，支持大
 
 本仓库用于用户支持、问题反馈和功能建议，不包含 App 源代码。
 
+## 隐私政策
+
+请阅读 [AI谱隐私政策](PRIVACY.md)，了解本地评测、音频、账户、模型下载、网络测速及诊断分享的数据处理方式。
+
 ## 问题反馈
 
 请通过 [GitHub Issues](https://github.com/lawson-source/AI-Spectrum-Support/issues) 提交问题或建议。提交前可先搜索已有反馈。
